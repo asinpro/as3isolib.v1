@@ -1,1 +1,0 @@
-/usr/bin/cc -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -rdynamic -Wl,--dependency-file=CMakeFiles/core_2d_camera.dir/link.d CMakeFiles/core_2d_camera.dir/core/core_2d_camera.c.o -o core_2d_camera  ../raylib/libraylib.a -lm -lpthread -lOpenGL -lGLX -lGLU ../raylib/external/glfw/src/libglfw3.a -Wl,-Bstatic -lrt -Wl,-Bdynamic -lm -ldl

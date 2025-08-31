@@ -1,2 +1,0 @@
-/usr/bin/ar qc libas3isolib_cpp.a CMakeFiles/as3isolib_cpp.dir/flash/events/Event.cpp.o CMakeFiles/as3isolib_cpp.dir/flash/display/DisplayObject.cpp.o CMakeFiles/as3isolib_cpp.dir/as3isolib/events/IsoEvent.cpp.o
-/usr/bin/ranlib libas3isolib_cpp.a

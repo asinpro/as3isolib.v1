@@ -1,0 +1,34 @@
+# Build directories
+build/
+dist/
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dylib
+
+# IDE files
+.vscode/
+.idea/
+*.vcxproj*
+*.sln
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Dependencies
+_deps/
