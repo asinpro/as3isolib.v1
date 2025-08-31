@@ -1,0 +1,6 @@
+# Examples
+add_executable(basic_example basic_example.cpp)
+target_link_libraries(basic_example as3isolib_cpp)
+
+add_executable(isometric_demo isometric_demo.cpp)
+target_link_libraries(isometric_demo as3isolib_cpp)
