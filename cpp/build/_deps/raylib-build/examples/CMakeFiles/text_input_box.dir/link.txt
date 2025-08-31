@@ -1,0 +1,1 @@
+/usr/bin/cc -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -rdynamic -Wl,--dependency-file=CMakeFiles/text_input_box.dir/link.d CMakeFiles/text_input_box.dir/text/text_input_box.c.o -o text_input_box  ../raylib/libraylib.a -lm -lpthread -lOpenGL -lGLX -lGLU ../raylib/external/glfw/src/libglfw3.a -Wl,-Bstatic -lrt -Wl,-Bdynamic -lm -ldl

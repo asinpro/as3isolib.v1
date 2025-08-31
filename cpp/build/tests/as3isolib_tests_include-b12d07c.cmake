@@ -1,0 +1,5 @@
+if(EXISTS "/home/runner/work/as3isolib.v1/as3isolib.v1/cpp/build/tests/as3isolib_tests_tests-b12d07c.cmake")
+  include("/home/runner/work/as3isolib.v1/as3isolib.v1/cpp/build/tests/as3isolib_tests_tests-b12d07c.cmake")
+else()
+  add_test(as3isolib_tests_NOT_BUILT-b12d07c as3isolib_tests_NOT_BUILT-b12d07c)
+endif()
